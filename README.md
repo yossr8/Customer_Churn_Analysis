@@ -1,4 +1,4 @@
-<h1></h1> Customer Churn Analytics</h1>
+# Customer Churn Analytics
 
 <p>
 This project focuses on identifying patterns and behaviors that lead to customer churn in a leading online E-commerce company.
@@ -11,7 +11,7 @@ Customer churn is a critical problem for online retailers, as losing active cust
 This project aims to help the business identify customers who are likely to churn, understand the reasons behind churn, and propose strategies to retain valuable customers using data-driven insights.
 </p>
 
-<h2>📊 Dataset Overview</h2>
+<h2> Dataset Overview</h2>
 <p>
 The dataset belongs to a prominent E-commerce company and includes information about customer demographics, behavior, and transaction history.
 </p>
